@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ACTIVE ANDROID SAMPLE</string>
+    <string name="hint_enter_name">Enter Name</string>
+    <string name="hint_enter_age">Enter Age</string>
+    <string name="hint_enter_id">Enter ID</string>
+    <string name="insert">Insert</string>
+    <string name="read_all">Read All</string>
+    <string name="read_one">Read One</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+</resources>
